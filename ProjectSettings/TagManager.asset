@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Cielo
+  - Water
+  - UI
+  - "Monta\xF1a"
+  - Arboles
+  - Suelo
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Cielo
+    uniqueID: 823237093
+    locked: 0
+  - name: "Monta\xF1a"
+    uniqueID: 3010359507
+    locked: 0
+  - name: Arboles
+    uniqueID: 3407974949
+    locked: 0
+  - name: Player
+    uniqueID: 580600993
+    locked: 0
+  m_RenderingLayers:
+  - Default
